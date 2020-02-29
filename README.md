@@ -28,6 +28,10 @@ npm run start
 2、 npm run start
 ```
 
+## 注意 还需要启动nodejs socket.io服务
+
+node server.js
+
 ## 3、功能：
 
 #### 开发完成:
